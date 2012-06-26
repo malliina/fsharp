@@ -1,0 +1,6 @@
+C:\Stuff\Development\fsharp\Projects\fsharp\fsharp\bin\Debug\fsharp.XML
+C:\Stuff\Development\fsharp\Projects\fsharp\fsharp\bin\Debug\fsharp.exe
+C:\Stuff\Development\fsharp\Projects\fsharp\fsharp\bin\Debug\fsharp.pdb
+C:\Stuff\Development\fsharp\Projects\fsharp\fsharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Stuff\Development\fsharp\Projects\fsharp\fsharp\obj\x86\Debug\fsharp.exe
+C:\Stuff\Development\fsharp\Projects\fsharp\fsharp\obj\x86\Debug\fsharp.pdb

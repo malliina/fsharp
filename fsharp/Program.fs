@@ -1,2 +1,4 @@
-﻿// Learn more about F# at http://fsharp.net
-
+﻿module Program
+let aInt=24
+let aStr="Hello, World!"
+printfn "%A" aStr
